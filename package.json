@@ -35,7 +35,7 @@
     "node-fetch": "^2.2.0",
     "react": "^16.4.1",
     "react-dom": "^16.4.1",
-    "sinon": "^6.1.4"
+    "sinon": "^19.0.0"
   },
   "scripts": {
     "start": "react-scripts start",
